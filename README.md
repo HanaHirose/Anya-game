@@ -1,10 +1,10 @@
 # Anya game
 
 ## Description
-"Rolling My Own Katamari" is a tribute game inspired by the 2004 Namco release, Katamari Damacy. This recreation not only mimics the fundamental mechanics of the original but also replicates its more intricate details such as dashing, quick stopping, directional changes, camera movements, and the dynamic physics of the Katamari. The primary goal remains unchanged—to increase the Katamari's size by collecting various objects throughout the game.
+In the "Anya Game," players can freely control the adorable Anya from 'SPY×FAMILY', exploring environments and performing actions. Inspired by the anime 'SPY×FAMILY', this project features a custom 3D model of the character Anya, which I designed from scratch in Blender. The model is fully animated with actions such as running, jumping, and falling, optimized for 3D gameplay. Additionally, the project utilizes Unity's Terrain feature to create varied game environments.
 
 ## Development
-- Duration: 2 month for 3D modeling and 3 days for developing the game
+- Duration: 2 month for 3D modeling and 1 week for developing the game
 - Developer: Hana Hirose
 
 ## Features
@@ -25,7 +25,7 @@ Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=7D0lyqAOB
 - C#
 
 ## C# Scripts Location
-The C# code for this project is located in the `Scripts` folder within the `Assets` directory.7878879879879
+The C# code for this project is located in the `Scripts` folder within the `Assets` directory.
 
 ## Contribution
 This project is developed as a personal hobby and is not open for contributions.
