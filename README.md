@@ -12,8 +12,9 @@
 - Dynamic Terrain: Experience the diverse landscapes I've crafted using Unity's Terrain feature, designed to enhance the gaming environment
 
 ## Controls
-- Move: Arrow keys
+- Move: WASD
 - Jump: Spacebar
+- Rotate Camera: Move the mouse
 
 ## Demo Video
 Watch the demo video on [YouTube link](https://www.youtube.com/watch?v=7D0lyqAOBJ0).
