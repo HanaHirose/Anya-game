@@ -1,10 +1,12 @@
 # Anya game
 
+![AnyaGame_Image](https://github.com/HanaHirose/Anya-game/blob/main/Images/AnyaGame_Image.png)
+
 ## Description
 In the "Anya Game," players can freely control the adorable Anya from 'SPY×FAMILY', exploring environments and performing actions. Inspired by the anime 'SPY×FAMILY', this project features a custom 3D model of the character Anya, which I designed from scratch in Blender. The model is fully animated with actions such as running, jumping, and falling, optimized for 3D gameplay. Additionally, the project utilizes Unity's Terrain feature to create varied game environments.
 
 ## Development
-- Duration: 2 month for 3D modeling and 1 week for developing the game
+- Duration: 2 month for 3D modeling and 3 weeks for developing the game
 - Developer: Hana Hirose
 
 ## Features
